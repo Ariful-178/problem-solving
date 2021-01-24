@@ -27,7 +27,7 @@ console.log(result);
 // watch-price=50
 // phone-price=100
 // laptop-price=500
-function budgetCalculetor(watch, phone, laptop) {
+function budgetCalculator(watch, phone, laptop) {
 
     var watch = watch * 50;
     var phone = phone * 100;
@@ -46,7 +46,7 @@ function budgetCalculetor(watch, phone, laptop) {
 
 
 }
-var result = budgetCalculetor(1,1,1);
+var result = budgetCalculator(1,1,1);
 console.log(result);
 //
 //
